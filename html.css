@@ -1,0 +1,32 @@
+.relative{
+    background-color: red;
+}
+.fixed{
+    position: fixed;
+    top :  0px;
+   right: 0px;
+    border: 1px solid rgb(148, 50, 205);
+    background-color: rgb(237, 237, 245);
+}
+.absolute{
+    cursor: pointer;
+    position: absolute;
+    border: 2px solid rgb(39, 10, 10);
+    }
+    .jaga-wrpper{
+        height: 20pxs;
+        width: 40%;
+        background-color: rgb(243, 138, 147);
+        overflow: scroll;
+        bottom: 0px;
+    }
+    .content{
+        cursor: pointer;
+    }
+    .goo{
+        background-color: slategrey;
+        white-space: 10px;
+    }
+    .home{
+        font-weight: bold;
+    }
